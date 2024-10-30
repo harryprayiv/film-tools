@@ -87,7 +87,7 @@
     ],
     "Dimming": [
       "12 x 1.2 Soco Rat Pac",
-      "6  x 2.4 Soco Rat Pac",
+      "6 x 2.4 Soco Rat Pac",
       "10 x 1.2 Rat Pac",
       "12 x 200 Rat Pac",
       "48 Rack",
@@ -98,11 +98,11 @@
   "Control": {
     "Cable": [
       "100' DMX",
-      "50'  DMX",
-      "25'  DMX",
-      "15'  DMX",
-      "10'  DMX",
-      "5'   DMX",
+      "50' DMX",
+      "25' DMX",
+      "15' DMX",
+      "10' DMX",
+      "5' DMX",
       "100' CAT5",
       "200' CAT5",
       "100' CAT6",
@@ -113,15 +113,23 @@
     "Wireless": [
       "Cintenna Receiver",
       "Cintenna Transmitter",
+      "Cintenna 2 Receiver",
+      "Cintenna 2 Transmitter",
       "Skylink Transmitter",
-      "Skylink Receiver"
+      "Skylink Receiver",
+      "Stardust Transmitter"
     ],
     "Electronics": [
-      "RDM Capable Opti-Splitter",
+      "Pro-Plex RDM Capable Opti-Splitter",
       "Standard Opti-Splitter",
       "Node",
       "MA NPU",
-      "Portable Board",
+      "MA GrandMA3 onPC 2Port Node 2K",
+      "MA GrandMA3 onPC 4Port Node 4K",
+      "MA GrandMA3 onPC 8Port Node 4K",
+      "MA GrandMA3 Replay Unit - 8,192 Parameter",
+      "MA grandMA3 Extension",
+      "MA NPU Extension",
       "ETC EOS",
       "ETC ColorSource",
       "GrandMA2",
@@ -129,6 +137,24 @@
       "Switch",
       "Bridge",
       "Repeater"
+    ]
+    }, 
+     "Lighting Control Hardware": [
+      "Generic Board",
+      "ETC EOS",
+      "ETC Element",
+      "ETC Ion",
+      "ETC Gio",
+      "ETC Apex",
+      "Generic GrandMA2",
+      "MA grandMA3 onPC Command Wing",
+      "MA grandMA3 Compact - 8,192 Parameter",
+      "MA grandMA3 Compact XT - 8,192 Parameter",
+      "MA grandMA3 Light CRV - 16,384 Parameter",
+      "MA grandMA3 Light - 16,384 Parameter",
+      "MA grandMA3 Full Size CRV - 20,480 Parameter",
+      "MA grandMA3 Full Size - 20,480 Parameter",
+      "Generic GrandMA3"
     ]
     }, 
   "Lights": {
