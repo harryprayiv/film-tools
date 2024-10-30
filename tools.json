@@ -139,8 +139,8 @@
       "Repeater"
     ]
     }, 
-     "Lighting Control Hardware": [
-      "Generic Board",
+     "Consoles": [
+      "Generic, Hard-Wired Board",
       "ETC EOS",
       "ETC Element",
       "ETC Ion",
@@ -154,7 +154,7 @@
       "MA grandMA3 Light - 16,384 Parameter",
       "MA grandMA3 Full Size CRV - 20,480 Parameter",
       "MA grandMA3 Full Size - 20,480 Parameter",
-      "Generic GrandMA3"
+      "Unknown GrandMA3"
     ]
     }, 
   "Lights": {
@@ -178,6 +178,9 @@
       "Arri S60-C",
       "Arri S120-C",
       "Arri S360-C",
+      "Arri SkyPanel X21",
+      "Arri SkyPanel X22",
+      "Arri SkyPanel X23",
       "Arri Orbiter",
       "DMG 4x1' Maxi",
       "DMG SL1",
