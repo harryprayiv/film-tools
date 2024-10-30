@@ -312,10 +312,15 @@
     "Dolly/Support": [
       "Western Dolly",
       "Chapman",
+      "PeeWee",
+      "Hybrid",
+      "Panther",
+      "Libra",
+      "Ronin",
+      "Movi",
       "Fisher 12",
       "Doorway Dolly",
-      "Slider",
-      "PeeWee"
+      "Slider"
     ],
     "Light Control Devices": [
       "20'x20' grid",
