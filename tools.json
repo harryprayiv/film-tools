@@ -107,16 +107,24 @@
       "200' CAT5",
       "100' CAT6",
       "200' CAT6",
+      "100' CAT7",
+      "200' CAT7",
+      "100' CAT8",
+      "200' CAT8",
+      "100' Ethernet",
+      "50' Ethernet",
+      "25' Ethernet",
+      "15' Ethernet",
+      "10' Ethernet",
+      "5' Ethernet",
       "Ethernet to Male DMX Adapter",
       "Ethernet to Female DMX Adapter"
     ],
-    "Wireless": [
+    "CRMX Wireless": [
       "Cintenna Receiver",
       "Cintenna Transmitter",
       "Cintenna 2 Receiver",
       "Cintenna 2 Transmitter",
-      "Skylink Transmitter",
-      "Skylink Receiver",
       "Stardust Transmitter"
     ],
     "Electronics": [
