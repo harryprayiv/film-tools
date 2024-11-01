@@ -127,100 +127,137 @@
       "Cintenna 2 Transmitter",
       "Stardust Transmitter"
     ],
-    "Electronics": [
-      "Pro-Plex RDM Capable Opti-Splitter",
-      "Standard Opti-Splitter",
-      "Fillex RPU",
-      "Node",
-      "MA NPU",
-      "MA GrandMA3 onPC 2Port Node 2K",
-      "MA GrandMA3 onPC 4Port Node 4K",
-      "MA GrandMA3 onPC 8Port Node 4K",
-      "MA GrandMA3 Replay Unit - 8,192 Parameter",
-      "MA grandMA3 Extension",
-      "MA NPU Extension",
-      "ETC EOS",
-      "ETC ColorSource",
-      "GrandMA2",
-      "GrandMA3",
-      "Switch",
-      "Bridge",
-      "Repeater"
-    ],
-    "Consoles": [
-      "Generic, Hard-Wired Board",
-      "ETC EOS",
-      "ETC Element",
-      "ETC Ion",
-      "ETC Gio",
-      "ETC Apex",
-      "Generic GrandMA2",
-      "MA grandMA3 onPC Command Wing",
-      "MA grandMA3 Compact - 8,192 Parameter",
-      "MA grandMA3 Compact XT - 8,192 Parameter",
-      "MA grandMA3 Light CRV - 16,384 Parameter",
-      "MA grandMA3 Light - 16,384 Parameter",
-      "MA grandMA3 Full Size CRV - 20,480 Parameter",
-      "MA grandMA3 Full Size - 20,480 Parameter",
-      "Unknown GrandMA3"
-    ]
+    "Electronics": {
+      "ETC": [
+        "ETC EOS",
+        "ETC ColorSource",
+        "Node"
+      ],      
+      "Grand MA": [
+        "MA NPU",
+        "MA GrandMA3 onPC 2Port Node 2K",
+        "MA GrandMA3 onPC 4Port Node 4K",
+        "MA GrandMA3 onPC 8Port Node 4K",
+        "MA GrandMA3 Replay Unit - 8,192 Parameter",
+        "MA grandMA3 Extension",
+        "MA NPU Extension"
+      ],
+      "Generic": [
+        "Pro-Plex RDM Capable Opti-Splitter",
+        "Standard Opti-Splitter",
+        "Fillex RPU",
+        "Switch",
+        "Bridge",
+        "Repeater"
+      ]    
+    },
+    "Consoles": {
+      "ETC": [
+        "ETC EOS",
+        "ETC Element",
+        "ETC Ion",
+        "ETC Gio",
+        "ETC Apex",
+        "Hog"
+      ],      
+      "Grand MA": [
+        "Generic GrandMA2",
+        "GrandMA2",
+        "GrandMA3",
+        "MA grandMA3 onPC Command Wing",
+        "MA grandMA3 Compact - 8,192 Parameter",
+        "MA grandMA3 Compact XT - 8,192 Parameter",
+        "MA grandMA3 Light CRV - 16,384 Parameter",
+        "MA grandMA3 Light - 16,384 Parameter",
+        "MA grandMA3 Full Size CRV - 20,480 Parameter",
+        "MA grandMA3 Full Size - 20,480 Parameter",
+        "Unknown GrandMA3"
+      ],
+      "ChamSys": [
+        "ChamSys MagicQ MQ250M Stadium",
+        "ChamSys MagicQ MQ50"          
+      ],
+      "Elation": [
+        "Elation Professional NX4 Onyx OS",
+        "Elation Professional NX Touch Onyx OS"        
+      ],            
+      "Other": [
+        "Generic, Hard-Wired Board"      
+      ]     
+    }
   },
   "Lights": {
-    "LED": [
-      "Creamsource Vortex8", 
-      "Creamsource Vortex4", 
-      "Creamsource Space X", 
-      "Creamsource Micro Colour", 
-      "Creamsource Micro Bender", 
-      "Astera Titan    4' Tube",
-      "Astera Helios   2' Tube",
-      "Astera Hyperion 8' Tube",
-      "Astera AX9 PowerPAR",
-      "Astera AX5 TriplePAR",
-      "Astera NYX Bulb",
-      "Astera Hydrapanel",
-      "Astera A-box w/ tablet",
-      "Astera Original 4'",
-      "Arri S30-C",
-      "Arri S30-C3",
-      "Arri S60-C",
-      "Arri S120-C",
-      "Arri S360-C",
-      "Arri SkyPanel X21",
-      "Arri SkyPanel X22",
-      "Arri SkyPanel X23",
-      "Arri Orbiter",
-      "DMG 4x1' Maxi",
-      "DMG SL1",
-      "DMG SL1 Switch",
-      "DMG Mini",
-      "Fillex Punch K10 Color",
-      "Fillex Punch K40 Color",
-      "Fillex Punch MOTOK40",
-      "Fillex Punch Quad Color",
-      "Fillex Punch Motoquad",
-      "Fillex G3 Ellipsiodal Color",
-      "Fillex G6 Ellipsiodal Color",
-      "Fillex Fresnel Q6 Color",
-      "Fillex Punch Motoq3",
-      "Fillex P3x Spot Light",
-      "Fillex P3W Wash Light",
-      "Fillex Punch Fresnel Q3 Color",
-      "Fillex Punch Fresnel Motoq3Color",
-      "Fillex Punch Fresnel Q6 Color",
-      "Fillex Punch Fresnel Q8 Color",
-      "Fillex Punch Fresnel Q10 Color",
-      "Quasar 8' Xfade",
-      "Quasar 4' Xfade",
-      "Quasar 2' Xfade",
-      "Quasar 2' Rainbow",
-      "Quasar 4' Rainbow",
-      "ETC Lustre",
-      "ETC Lustre2",
-      "StudioForce 72",
-      "ColorForce  72",
-      "ColorForce 72 MKII"
-    ],
+    "LED": {
+      "Arri": [
+        "Arri S30-C",
+        "Arri S30-C3",
+        "Arri S60-C",
+        "Arri S120-C",
+        "Arri S360-C",
+        "Arri SkyPanel X21",
+        "Arri SkyPanel X22",
+        "Arri SkyPanel X23",
+        "Arri Orbiter"
+      ],
+      "Creamsource": [
+        "Creamsource Vortex8", 
+        "Creamsource Vortex4", 
+        "Creamsource Space X", 
+        "Creamsource Micro Colour", 
+        "Creamsource Micro Bender"
+      ],      
+      "Astera": [
+        "Astera Titan    4' Tube",
+        "Astera Helios   2' Tube",
+        "Astera Hyperion 8' Tube",
+        "Astera AX9 PowerPAR",
+        "Astera AX5 TriplePAR",
+        "Astera NYX Bulb",
+        "Astera Hydrapanel",
+        "Astera A-box w/ tablet",
+        "Astera Original 4'"
+      ],
+      "DMG": [
+        "DMG 4x1' Maxi",
+        "DMG SL1",
+        "DMG SL1 Switch",
+        "DMG Mini"
+      ],
+      "Fillex": [
+        "Fillex Punch K10 Color",
+        "Fillex Punch K40 Color",
+        "Fillex Punch MOTOK40",
+        "Fillex Punch Quad Color",
+        "Fillex Punch Motoquad",
+        "Fillex G3 Ellipsiodal Color",
+        "Fillex G6 Ellipsiodal Color",
+        "Fillex Fresnel Q6 Color",
+        "Fillex Punch Motoq3",
+        "Fillex P3x Spot Light",
+        "Fillex P3W Wash Light",
+        "Fillex Punch Fresnel Q3 Color",
+        "Fillex Punch Fresnel Motoq3Color",
+        "Fillex Punch Fresnel Q6 Color",
+        "Fillex Punch Fresnel Q8 Color",
+        "Fillex Punch Fresnel Q10 Color"
+      ],
+      "Quasar": [
+        "Quasar 8' Xfade",
+        "Quasar 4' Xfade",
+        "Quasar 2' Xfade",
+        "Quasar 2' Rainbow",
+        "Quasar 4' Rainbow"
+      ],
+      "ETC": [
+        "ETC Lustre",
+        "ETC Lustre2"
+      ],
+      "Chroma Q": [
+        "StudioForce 72",
+        "ColorForce  72",
+        "ColorForce 72 MKII"
+      ]
+    },
     "HMI": [
       "ArriMax 18K HMI",
       "18K HMI Fresnel",
