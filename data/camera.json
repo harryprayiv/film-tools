@@ -1,0 +1,110 @@
+{
+  "Camera": {
+    "Arri": [
+      "Alexa 65",
+      "Arri Monochrome",
+      "Arriflex 765",
+      "Alexa LF",
+      "Alexa Mini LF",
+      "Alexa 35",
+      "Alexa Mini",
+      "Alexa SXT",
+      "Alexa Studio",
+      "Alexa Amira",
+      "Alexa XT Monochrome",
+      "Arriflex D-21"        
+      ],
+    "Sony": [
+      "Venice 2",
+      "Venice",
+      "Burano",
+      "PXW-Z750",
+      "PXW-Z450",
+      "PXW-Z400",
+      "PXW-FX9",
+      "ILME-FX6",
+      "ILME-FX3",
+      "ILME-FX30",                        
+      "PXW-Z280",
+      "PXW-Z200",
+      "HXR-NX800",
+      "PXW-Z190",
+      "PXW-Z90",
+      "HDC-5500V",
+      "HDC-3500V",
+      "HDC-5500",                        
+      "HDC-F5500",
+      "HDC-3500",
+      "HDC-3200",
+      "HDC-3100",
+      "HDC-3170",
+      "HXC-FZ90",
+      "UHC-8300",
+      "HDC-P50",
+      "HDC-P31",    
+      "HDC-P50A"                        
+      ],
+    "BlackMagic Design": [
+      "",
+      ""
+    ],   
+    "Fuji": [
+      "",
+      ""
+    ],                
+    "Red": [
+      "",
+      ""
+    ],          
+    "Panavision": [
+      "",
+      ""
+    ]               
+  },
+  "Lens": {
+    "Panavision": [
+      "",
+      ""        
+      ],
+    "Sigma": [
+      "",
+      ""        
+      ], 
+    "Tokina": [
+      "",
+      ""        
+      ],       
+    "Angenieux": [
+      "",
+      ""        
+      ],
+    "Fujifilm": [
+      "",
+      ""        
+      ],  
+    "Arri": [
+      "",
+      ""        
+      ],
+    "Canon": [
+      "",
+      ""        
+      ],        
+    "Hawk": [
+      "",
+      ""        
+      ],  
+    "Zeiss": [
+      "",
+      ""        
+      ],
+    "Leitz": [
+      "",
+      ""        
+      ],                     
+    "Cooke": [
+      "",
+      ""
+      ]        
+  }
+}
